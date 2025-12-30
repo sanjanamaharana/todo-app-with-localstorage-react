@@ -77,19 +77,19 @@ http://localhost:3000
 
 ### Add Todo
 
-![Add Todo](photo/add-todo.jpg)
+![Add Todo](photo/add-todo.png)
 
 ### Todo List
 
-![Todo List](photo/todo-list.jpg)
+![Todo List](photo/todo-list.png)
 
 ### Edit Todo
 
-![Edit Todo](photo/edit-todo.jpg)
+![Edit Todo](photo/edit-todo.png)
 
 ### Completed Todos
 
-![Completed Todos](photo/completed-todos.jpg)
+![Completed Todos](photo/completed-todos.png)
 
 ---
 
@@ -119,8 +119,3 @@ http://localhost:3000
 **Sanjana Maharana**
 MCA Student | MERN Stack Learner | Aspiring Software Developer
 
----
-
-## 📄 License
-
-This project is open-source and available under the **MIT License**.

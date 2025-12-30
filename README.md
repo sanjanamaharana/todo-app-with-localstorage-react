@@ -36,7 +36,7 @@ react-todo-app/
 │   ├── index.js
 │   └── ...
 ├── public/
-├── screenshots/
+├── photo/
 │   ├── add-todo.jpg
 │   ├── todo-list.jpg
 │   ├── edit-todo.jpg
